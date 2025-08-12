@@ -20,8 +20,10 @@ Language: Python
 Framework: Jupyter Notebook
 
 Libraries: 1. Pandas (for data manipulation)
-           2.Scikit-learn (for machine learning models)
-           3.Matplotlib / Seaborn (for data visualization)
+
+2.Scikit-learn (for machine learning models)
+           
+3.Matplotlib / Seaborn (for data visualization)
            
 Data: predict.csv
 
