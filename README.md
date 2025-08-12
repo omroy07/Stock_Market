@@ -1,4 +1,4 @@
-### 📈 Stock Market Prediction
+# 📈 Stock Market Prediction
 ---
 ## 🌟 About the Project
 This project is a stock market prediction model built with a Jupyter Notebook. It uses machine learning techniques to analyze historical stock data and forecast future market trends. The goal is to provide a predictive tool for potential stock movements.
